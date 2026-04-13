@@ -8,3 +8,7 @@ Consultar saldo, realizar transferência, desde que haja saldo em conta e o valo
 
 Além disso, exte a classe TesteConta que deve instanciar os objetos de ContaPoupanca e ContaCorrente.
 
+daniel 13/04/26
+Correção de erros nas classes Conta, ContaCorrente e ContaPoupanca.
+Ajuste de herança, métodos getters e erros de sintaxe.
+Correção do TesteConta com uso correto de polimorfismo.
